@@ -2,9 +2,10 @@
 #include <algorithm>
 #include "SuperArray.hpp"
 
-        SuperArray::SuperArray(int x)
+        SuperArray::SuperArray(int x,int y)
 	{
 		m_size = x;
+		m_capacity = y;
 		m_data = new int[m_capacity];
 	}
 	
