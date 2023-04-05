@@ -1,5 +1,5 @@
 #include <iostream>
-#include "My_class.h"
+#include "SuperArray.hpp"
 
 int main()
 {
