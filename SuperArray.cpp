@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-#include "My_class.h"
+#include "SuperArray.hpp"
 
         SuperArray::SuperArray(int x)
 	{
